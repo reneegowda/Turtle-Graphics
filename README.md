@@ -10,6 +10,7 @@ Assignment Source Code: The code demonstrates the application of fundamental pro
 Precondition Enforcement: Functions that include checks to ensure input values are valid (e.g., ensuring a positive size for shapes).
 
 Tasks:
+
 Task 1: Triangles
 Draw various types of triangles using loops and conditional logic, demonstrating the basic use of Turtle graphics.
 
